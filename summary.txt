@@ -1,0 +1,10 @@
+		Here Is summary of order lists
+===========================================================================
+		Name: abebe
+		Age: 12
+		Gender: fimale
+		Purchase Date: 4/23/2014
+		Ordered: 2 Antibiotics
+		Amount of money: 19.98 birr
+		Purchase status: Successful
+===========================================================================

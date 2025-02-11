@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1696233772 source:c:\users\zemic\desktop\programing assi\pms oop & file\main.cpp
+	<iostream>
+	<iomanip>
+	<fstream>
+
