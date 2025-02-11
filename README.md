@@ -1,1 +1,0 @@
-# CPP-Pharmacy-management-system-with-OOP
